@@ -1,0 +1,15 @@
+C:\Users\elber\source\repos\Modulİki\Modulİki\bin\Debug\Modulİki.exe.config
+C:\Users\elber\source\repos\Modulİki\Modulİki\bin\Debug\Modulİki.exe
+C:\Users\elber\source\repos\Modulİki\Modulİki\bin\Debug\Modulİki.pdb
+C:\Users\elber\source\repos\Modulİki\Modulİki\obj\Debug\Modulİki.csprojAssemblyReference.cache
+C:\Users\elber\source\repos\Modulİki\Modulİki\obj\Debug\Modulİki.Anasayfa.resources
+C:\Users\elber\source\repos\Modulİki\Modulİki\obj\Debug\Modulİki.Properties.Resources.resources
+C:\Users\elber\source\repos\Modulİki\Modulİki\obj\Debug\Modulİki.Yazılımcıgiris.resources
+C:\Users\elber\source\repos\Modulİki\Modulİki\obj\Debug\Modulİki.csproj.GenerateResource.cache
+C:\Users\elber\source\repos\Modulİki\Modulİki\obj\Debug\Modulİki.csproj.CoreCompileInputs.cache
+C:\Users\elber\source\repos\Modulİki\Modulİki\obj\Debug\Modulİki.exe
+C:\Users\elber\source\repos\Modulİki\Modulİki\obj\Debug\Modulİki.pdb
+C:\Users\elber\source\repos\Modulİki\Modulİki\obj\Debug\Modulİki.uye.resources
+C:\Users\elber\source\repos\Modulİki\Modulİki\obj\Debug\Modulİki.Yonetici.resources
+C:\Users\elber\source\repos\Modulİki\Modulİki\obj\Debug\Modulİki.YoneticiPaneli.resources
+C:\Users\elber\source\repos\Modulİki\Modulİki\obj\Debug\Modulİki.yazılım.resources
